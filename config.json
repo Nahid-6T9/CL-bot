@@ -30,7 +30,7 @@
   "GENDER": "MALE",
   "nickNameBot": "𝗛𝗜𝗧𝗟𝗘𝗥",
   "FACEBOOK": "",
-  "prefix": "#",
+  "prefix": "-",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
